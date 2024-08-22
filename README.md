@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijaykumar-20
 - 👀 I’m interested in ...Doing realtime experienceble projects
-- 🌱 I’m currently pursuing ...Bachelor of Engineering in ECE i.e 4th year
+- 🌱 I’m currently working as Associte Process Leader in Brane Enterprises.
 - 💞️ I’m looking to collaborate on ... Software Development projects and App development.
 - 📫 How to reach me ...Could dm me in GIT.
 
