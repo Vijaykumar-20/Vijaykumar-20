@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijaykumar-20
 - 👀 I’m interested in ...Doing realtime experienceble projects
-- 🌱 I’m currently working as Software Solutions Engineer in Brane Enterprises.
+- 🌱 I’m currently working as Developer at RealPage.
 - 💞️ I’m looking to collaborate on ... Software Development projects and App development.
 - 📫 How to reach me ...Anyone can catch me up at https://www.linkedin.com/in/vijay-kumar-pilla/
 
